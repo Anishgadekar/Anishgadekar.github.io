@@ -145,7 +145,8 @@
 	}
 	.mbgcolor1{
 		background-color: #2b2c2c;
-		border: 1px solid grey;
+		border-top: 1px solid grey;
+		border-bottom: 1px solid grey;
 	}
 	.mbgcolor2{
 		background-color: #2d2e2e;
