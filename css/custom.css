@@ -391,3 +391,9 @@
 		padding-left: 0px;
 	}
 }
+.cv_download{
+	color: #6c757d;
+}
+.cv_download:hover{
+	color: white;
+}
